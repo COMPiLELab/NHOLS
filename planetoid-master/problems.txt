@@ -1,0 +1,8 @@
+problems with planetoid:
+
+
+mingw should be 64bit
+
+env variable
+
+pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
